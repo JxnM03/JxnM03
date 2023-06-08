@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jan
+- 👋 Hi, my name is Jan
 - 👀 I’m interested in programming, especially web development and data science
-- 🌱 I’m currently studying at the Julius Maximilians University of Würzburg (Germany)
+- 🌱 I’m currently studying business informatics at the JMU Würzburg (Germany)
 - 📫 How to reach me: Send an E-Mail to "janmichelpayback@gmail.com" or text me on IG: jxn.m03
 
 <!---
